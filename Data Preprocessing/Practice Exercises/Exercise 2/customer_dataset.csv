@@ -1,0 +1,9 @@
+Country,Age,Salary,Subscribed
+France,44.0,72000.0,No
+Spain,27.0,,Yes
+Germany,,54000.0,No
+Italy,38.0,61000.0,No
+France,40.0,58000.0,Yes
+Spain,35.0,52000.0,Yes
+Germany,28.0,79000.0,No
+Italy,48.0,83000.0,Yes
